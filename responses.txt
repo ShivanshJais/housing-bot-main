@@ -1,0 +1,1 @@
+Here are the rooms I found in the city of {} under your budget of {}.
